@@ -1,3 +1,10 @@
+body{
+    font-family: 'Heebo', sans-serif;
+}
 h1{
-    color:green;
+    font-size: 50px;
+}
+
+.orange-color{
+    color: orange;
 }
